@@ -21,7 +21,8 @@ Imports:
     hySpc.testthat
 Suggests:
     knitr,
-    covr
+    covr,
+    rmarkdown
 URL: 
     https://r-hyperspec.github.io/hySpc.skeleton,
     https://github.com/r-hyperspec/hySpc.skeleton
